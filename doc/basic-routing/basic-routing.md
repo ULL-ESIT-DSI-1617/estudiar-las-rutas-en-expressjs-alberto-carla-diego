@@ -52,3 +52,8 @@ Como hemos podido observar, tras realizar una petición de tipo POST, la respues
 Para observar otro tipo de respuesta, éste sería el ejemplo para un tipo de petición **DELETE**:
 
 <div style="text-align:center"><img style="width:70%; height:70%" src="images/respuestadelete.png"/></div>
+
+
+Por último y como dato importante podríamos destacar las diversas maneras que existen de enviar datos al cliente:
+* **send()**, **sendfile()**: Con este tipo de métodos, solo se pueden invocar una vez por cada petición, ya que tras su ejecución se cierra la solicitud. Como podemos entender, con estos métodos podemos desde enviar archivos, hasta código html en sus parámetros.
+* **write()**: Al contrario que el anterior, éste método funciona de buffer, es decir, se puede usar las veces que uno desee, siempre y cuando se cierre la solicitud en el final con **end()**.

@@ -16,3 +16,8 @@ gulp.task('middleware',shell.task([
   'node middleware/middleware.js'
 ])
 );
+
+gulp.task('server',shell.task([
+  'node middleware/server.js'
+])
+);
