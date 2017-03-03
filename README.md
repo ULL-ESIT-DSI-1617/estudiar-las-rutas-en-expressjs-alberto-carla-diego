@@ -5,14 +5,16 @@ En esta practica se realizará un despliegue en diferentes plataformas en el que
 * **gulp  basic-routing** : Ejecuta el código que representa la explicación de rutas básicas.
 * **gulp  middleware** : Ejecuta el código donde se utilizan funciones middleware.
 * **gulp  server** : Ejecuta el código que levanta un servidor estático.
+* **gulp routing**: Diferentes tipos de direccionamiento.
+* **gulp router**: Funciones middleware con la instancia router.
 
 
 
 
 
 * [Enlace al repositorio Github](https://github.com/ULL-ESIT-DSI-1617/estudiar-las-rutas-en-expressjs-alberto-diego)
-* [Enlace a la publicación en gh-pages]( )
-* [Enlace a la publicación en Gitbook]( )
+* [Enlace a la publicación en gh-pages](https://ull-esit-dsi-1617.github.io/estudiar-las-rutas-en-expressjs-alberto-diego/)
+* [Enlace a la publicación en Gitbook](https://www.gitbook.com/book/alu0100825510/estudiar-las-rutas-en-express-js/)
 * [Enlace a la publicación en máquina iaas Alberto](http://10.6.129.237:8085/)
 * [Enlace a la publicación en máquina iaas Diego](http://10.6.128.78:8085/)
 
