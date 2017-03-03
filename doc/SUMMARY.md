@@ -1,4 +1,8 @@
-# Summary
+# Práctica 3: Estudiar las rutas en ExpressJS (DSI)
 
-* [Introduction](README.md)
+* [Introducción](README.md)
 
+* [Enrutamiento Básico](basic-routing/basic-routing.md)
+* []()
+* [Middleware](middleware/middleware.md)
+* []()
