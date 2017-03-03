@@ -21,13 +21,3 @@ gulp.task('server',shell.task([
   'node middleware/server.js'
 ])
 );
-
-gulp.task('routing',shell.task([
-  'nodejs routing/routing.js'
-])
-);
- 
-gulp.task('router',shell.task([
-  'nodejs router/route.js'
-])
-);
